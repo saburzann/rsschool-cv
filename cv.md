@@ -40,7 +40,7 @@ Note: If the number is a multiple of both 3 and 5, only count it once.
 
 ### Solution:
 
-```
+```js
 function solution(number){
   let total = 0
 
