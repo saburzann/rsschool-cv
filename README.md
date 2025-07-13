@@ -1,1 +1,1 @@
-[Live CV](https://saburzann.github.io/rsschool-cv/cv)
+[Live CV](https://saburzann.github.io/rsschool-cv/)
